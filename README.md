@@ -11,9 +11,9 @@ An Undergraduate Software Engineering (BEng Hons) Student at the <a href="https:
 <h5>
 I'm currently looking to secure a Software Engineering related Summer Internship or similar to pair with my enthusiasm for the subject. Keen to maximise the opportunity to test and further my current programming and software development skills in the context of an actual workplace.
 </h5>
-
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+  
+[![GitHub](https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bentindal)
+  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-tindal-8176a9177/)
   
   
 <h3> Check out some of my projects below 👇 </h3>
