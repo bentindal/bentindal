@@ -9,7 +9,7 @@ An undergraduate Software Engineering (BEng Hons) student at the <a href="https:
 <h3>
 
 <h5>
-I'm currently looking to secure a Software Engineering related Summer Internship or similar to pair with my enthusiasm for the subject. Keen to maximise the opportunity to test and further my current programming and software development skills in the context of an actual workplace.
+Open to internships & part-time work.
 </h5>
   
 [![GitHub](https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bentindal)
