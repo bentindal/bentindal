@@ -5,7 +5,7 @@ Hi I'm Ben, Welcome to my Github Profile <img src="https://raw.githubusercontent
 </h1>
 
 <h3>
-An undergraduate Software Engineering (BEng Hons) student at the <a href="https://www.sheffield.ac.uk/" rel="nofollow">University of Sheffield</a>
+An undergraduate Software Engineering (MEng Hons) student at the <a href="https://www.sheffield.ac.uk/" rel="nofollow">University of Sheffield</a>
 <h3>
 
 <h5>
