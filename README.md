@@ -5,7 +5,7 @@ Hi I'm Ben, Welcome to my Github Profile <img src="https://raw.githubusercontent
 </h1>
 
 <h3>
-An undergraduate Software Engineering (MEng) student at the <a href="https://www.sheffield.ac.uk/" rel="nofollow">University of Sheffield</a>
+Software Engineering (MEng) student at the <a href="https://www.sheffield.ac.uk/" rel="nofollow">University of Sheffield</a>
 <h3>
   
 [![GitHub](https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bentindal)
